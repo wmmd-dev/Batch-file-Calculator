@@ -20,9 +20,7 @@
 </div>
 
 <h2>🌠 images:</h2>
-<div align="left" style="flex-shrink: 0; margin-right: 20;">
-        <img src="https://imgur.com/oQs11H7.png" width="200" />
-    </div>
+
 
 ![Image](https://github.com/user-attachments/assets/8a8afa38-50e1-4768-96d0-d99816fceb26)
 <br>
@@ -44,3 +42,6 @@
 
 </div>
 
+<div align="left" style="flex-shrink: 0; margin-right: 20;">
+        <img src="https://imgur.com/oQs11H7.png" width="200" />
+    </div>
